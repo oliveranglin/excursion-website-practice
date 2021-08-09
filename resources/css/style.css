@@ -1,0 +1,49 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+}
+
+h1,
+h2 {
+    
+    font-weight: Normal;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.download-link {
+    color: Aquamarine;
+    text-align: center;
+    font-size: 16 px;
+    text-decoration: underline;
+}
+a{
+    color: aquamarine;
+}
+
+.body-text {
+    color: gray;
+    text-align: center;
+    font-size: 21px;
+}
+
+.media {
+    text-align: center;
+}
+
+.footer-text {
+    text-align: right;
+    color: gray;
+}
+
+#img {
+    margin: 2%;
+}
+#landscape {
+    width: 75%;
+}
